@@ -1,1 +1,3 @@
-# rust-hello-wasm-cli
+# rust-hello-wasm-cli  - wasm-cli for Rust
+
+Rustでwasmを実装したプロジェクトです。
